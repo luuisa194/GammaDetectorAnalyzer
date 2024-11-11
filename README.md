@@ -30,6 +30,7 @@ OffAxisAnalyzer.py
 The console output for both scripts includes fitted calibration parameters, absolute and intrinsic efficiency values, and notes on any fitting issues encountered. 
 
 Errors:
+
 -fitting of peaks: adjust the ROIs , adjust (maxfev), or remove ROI if it cant be fit
 -fitting of energies/resolution: may happen because of faulty data/peaks try increasing (maxfev)
 
